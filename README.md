@@ -1,4 +1,7 @@
-## Hi there 👋
+## Eu sou o Raphael. Tenho 33 anos e estou estudando ciência de dados. 
+Estou em busca da minha primeira oportunidade na área.
+
+Seja bem-vindo!
 
 <!--
 **raphaeloliveirabomfim/raphaeloliveirabomfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
