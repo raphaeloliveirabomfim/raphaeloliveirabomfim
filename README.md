@@ -3,10 +3,6 @@
 
 - 🌱 Estou aprendendo **Análise, exploração e pré-processamento de dados, DataFrames, Machine Learning, Python e estatística.**
 
-- 🤝 Aceito ajuda com [projeto_credit_card_fraud](https://github.com/raphaeloliveirabomfim/projeto_credit_card_fraud)
-
-- 🤝 Aceito ajuda com [projeto_semantix_evasao_escolar](https://github.com/raphaeloliveirabomfim/projeto_semantix_evasao_escolar)
-
 - 👨‍💻 Meus projetos estão disponíveis em [https://github.com/raphaeloliveirabomfim](https://github.com/raphaeloliveirabomfim)
 
 - 💬 Fale comigo sobre **Python, SQL, Machine Learning, Análise de Dados**
