@@ -6,11 +6,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raphaeloliveirabomfim&repo=projeto_credit_card_fraud&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raphaeloliveirabomfim&repo=projeto_churn_ecommerce&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaeloliveirabomfim&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### **Linguagens:**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeloliveirabomfim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaeloliveirabomfim&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeloliveirabomfim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📄 Veja meu CV: [https://docs.google.com/document/d/13T_yu6GmebG6uyqS7CYfTqlDObTKFoa1E-f1ZgzO5Gs/edit?usp=sharing](https://docs.google.com/document/d/13T_yu6GmebG6uyqS7CYfTqlDObTKFoa1E-f1ZgzO5Gs/edit?usp=sharing)
 
