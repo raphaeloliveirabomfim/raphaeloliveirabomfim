@@ -9,6 +9,9 @@
 
 - 📫 Como entrar em contato **rapha.sep@hotmail.com**
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaeloliveirabomfim&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 📄 Veja minha experiência [https://docs.google.com/document/d/13T_yu6GmebG6uyqS7CYfTqlDObTKFoa1E-f1ZgzO5Gs/edit?usp=sharing](https://docs.google.com/document/d/13T_yu6GmebG6uyqS7CYfTqlDObTKFoa1E-f1ZgzO5Gs/edit?usp=sharing)
 
 <h3 align="left">Entre em contato:</h3>
