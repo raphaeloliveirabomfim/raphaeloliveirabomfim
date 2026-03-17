@@ -4,7 +4,7 @@
 ### **Projetos:** 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raphaeloliveirabomfim&repo=football_injury_prediction&theme=dark)](https://github.com/raphaeloliveirabomfim/football_injury_prediction) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raphaeloliveirabomfim&repo=evasao_escolar&theme=dark)](https://github.com/raphaeloliveirabomfim/evasao_escolar)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raphaeloliveirabomfim&repo=projeto_credit_card_fraud&theme=dark)](https://github.com/raphaeloliveirabomfim/projeto_credit_card_fraud) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raphaeloliveirabomfim&repo=projeto_churn_ecommerce&theme=dark)](https://github.com/raphaeloliveirabomfim/projeto_churn_ecommerce)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raphaeloliveirabomfim&repo=projeto_churn_ecommerce&theme=dark)](https://github.com/raphaeloliveirabomfim/projeto_churn_ecommerce)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaeloliveirabomfim&show_icons=true&theme=dark)](https://github.com/raphaeloliveirabomfim)
 
