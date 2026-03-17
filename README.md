@@ -1,18 +1,22 @@
 <h1 align="center">Olá 👋, sou o Raphael Oliveira</h1>
 <h3 align="center">Tenho 34 anos e sou formado em Ciência de Dados pela EBAC. Estou muito animado para a minha primeira oportunidade na área!</h3>
 
-- 🌱 Estou aprendendo **Análise, exploração e pré-processamento de dados, DataFrames, Machine Learning, Python e estatística.**
+### **Linguagens:**
 
-- 👨‍💻 Meus projetos estão disponíveis em [https://github.com/raphaeloliveirabomfim](https://github.com/raphaeloliveirabomfim)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeloliveirabomfim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 💬 Fale comigo sobre **Python, SQL, Machine Learning, Análise de Dados**
 
-- 📫 Como entrar em contato **rapha.sep@hotmail.com**
+### **Projetos:**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raphaeloliveirabomfim&repo=football_injury_prediction.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raphaeloliveirabomfim&repo=evasao_escolar.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raphaeloliveirabomfim&repo=projeto_credit_card_fraud.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaeloliveirabomfim&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-- 📄 Veja minha experiência [https://docs.google.com/document/d/13T_yu6GmebG6uyqS7CYfTqlDObTKFoa1E-f1ZgzO5Gs/edit?usp=sharing](https://docs.google.com/document/d/13T_yu6GmebG6uyqS7CYfTqlDObTKFoa1E-f1ZgzO5Gs/edit?usp=sharing)
+- 📄 Veja meu CV: [https://docs.google.com/document/d/13T_yu6GmebG6uyqS7CYfTqlDObTKFoa1E-f1ZgzO5Gs/edit?usp=sharing](https://docs.google.com/document/d/13T_yu6GmebG6uyqS7CYfTqlDObTKFoa1E-f1ZgzO5Gs/edit?usp=sharing)
 
 <h3 align="left">Entre em contato:</h3>
 <p align="left">
