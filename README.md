@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou o Raphael Oliveira</h1>
-<h3 align="center">Tenho 34 anos e sou formado em Ciência de Dados pela EBAC. Estou muito animado para a minha primeira oportunidade na área!</h3>
+<h3 align="center">Tenho 34 anos e sou formado em Ciência de Dados pela EBAC. </h3>
 
 ### **Projetos:** 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raphaeloliveirabomfim&repo=football_injury_prediction&theme=dark)](https://github.com/raphaeloliveirabomfim/football_injury_prediction) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raphaeloliveirabomfim&repo=evasao_escolar&theme=dark)](https://github.com/raphaeloliveirabomfim/evasao_escolar)
