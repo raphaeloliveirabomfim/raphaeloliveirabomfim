@@ -8,7 +8,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaeloliveirabomfim&show_icons=true&theme=dark)](https://github.com/raphaeloliveirabomfim)
 
-- 📄 Veja meu CV: [https://docs.google.com/document/d/13T_yu6GmebG6uyqS7CYfTqlDObTKFoa1E-f1ZgzO5Gs/edit?usp=sharing](https://docs.google.com/document/d/13T_yu6GmebG6uyqS7CYfTqlDObTKFoa1E-f1ZgzO5Gs/edit?usp=sharing)
+- 📄 Veja meu CV: [https://docs.google.com/document/d/13T_yu6GmebG6uyqS7CYfTqlDObTKFoa1E-f1ZgzO5Gs/edit?usp=sharing](https://docs.google.com/document/d/1SSvJiHh7FrcaK2JkJvZ__qIJMqCXY29E/edit)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeloliveirabomfim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
