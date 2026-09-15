@@ -1,14 +1,5 @@
 <h1 align="center">Olá 👋, sou o Raphael Oliveira</h1>
-<h3 align="center">Tenho 34 anos e sou formado em Ciência de Dados pela EBAC. </h3>
-
-### **Projetos:** 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raphaeloliveirabomfim&repo=football_injury_prediction&theme=dark)](https://github.com/raphaeloliveirabomfim/football_injury_prediction) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raphaeloliveirabomfim&repo=evasao_escolar&theme=dark)](https://github.com/raphaeloliveirabomfim/evasao_escolar)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raphaeloliveirabomfim&repo=projeto_churn_ecommerce&theme=dark)](https://github.com/raphaeloliveirabomfim/projeto_churn_ecommerce) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raphaeloliveirabomfim&repo=projeto_credit_card_fraud&theme=dark)](https://github.com/raphaeloliveirabomfim/projeto_credit_card_fraud)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaeloliveirabomfim&show_icons=true&theme=dark)](https://github.com/raphaeloliveirabomfim)
-
-- 📄 Veja meu CV: [https://docs.google.com/document/d/13T_yu6GmebG6uyqS7CYfTqlDObTKFoa1E-f1ZgzO5Gs/edit?usp=sharing](https://docs.google.com/document/d/1SSvJiHh7FrcaK2JkJvZ__qIJMqCXY29E/edit)
+<h3 align="center">Tenho 34 anos e sou Engenheiro de Software | Infraestrutura Cloud (GCP) & Governança de Sistemas de IA | Full-stack, Segurança e Automação. </h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeloliveirabomfim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
